@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1545226254 source:d:\tarequr rahaman cse115.3\trieproject\main.cpp
+	<iostream>
+	"trie.h"
+	"string"
+
+1545637978 d:\tarequr rahaman cse115.3\trieproject\trie.h
+
+1545226514 source:d:\tarequr rahaman cse115.3\trieproject\trie.cpp
+	"trie.h"
+
+1658122674 source:d:\new folder (4)\tarequr rahaman cse115.3\trieproject\main.cpp
+	<iostream>
+	"trie.h"
+	"string"
+
+1545637978 d:\new folder (4)\tarequr rahaman cse115.3\trieproject\trie.h
+
+1545226514 source:d:\new folder (4)\tarequr rahaman cse115.3\trieproject\trie.cpp
+	"trie.h"
+
